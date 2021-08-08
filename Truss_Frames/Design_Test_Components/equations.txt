@@ -1,0 +1,15 @@
+﻿"rivet_spacing_vert"=30
+"D2@Sketch1"="rivet_spacing_vert"
+"rivet_spacing_horiz"=200
+"D6@Sketch1"="rivet_spacing_horiz"
+"D8@Sketch1"="rivet_spacing_horiz"
+"rivet_spacing_offset_right"=40
+"D4@Sketch1"="rivet_spacing_offset_right"
+"rivet_offset_ends"=80
+"D9@Sketch1"="rivet_offset_ends"
+"D10@Sketch1"="rivet_offset_ends"
+"border_offest_ends"=20
+"D12@Sketch1"="border_offest_ends"
+"D11@Sketch1"="border_offest_ends"
+"rivet_size"=5
+"D1@Sketch1"="rivet_size"
