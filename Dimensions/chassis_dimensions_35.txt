@@ -2,11 +2,7 @@
 
 "base_width_skin_spacer_length" = 200
 
-"base_width_skin_target_width" = 50
-
-"base_width_skin_target_bend_radius" = 1.5
-
-"base_width_skin_spacer" = "base_width_skin_target_width" - 4 * "skin_sheetmetal_thickness" - 2 * "base_width_skin_target_bend_radius"
+"base_width_skin_spacer" = 35
 
 "base_width_skin_inner" = "base_width_skin_spacer" + 2 * "skin_sheetmetal_thickness"
 
@@ -30,9 +26,9 @@
 
 "rivet_size"= 4.3
 
-"rivet_offset_ends"= "rivet_spacing_horiz"/2 - "border_offset_ends"
+"rivet_offset_ends"= 80
 
-"rivet_spacing_horiz"= 100
+"rivet_spacing_horiz"= 200
 
 "rivet_spacing_vert"= 30
 
