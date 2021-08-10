@@ -1,0 +1,42 @@
+﻿"skin_sheetmetal_thickness"= 0.80
+
+"base_width_skin_spacer_length" = 315
+
+"base_width_skin_target_width" = 50
+
+"base_width_skin_target_bend_radius" = 1.5
+
+"base_width_skin_spacer" = "base_width_skin_target_width" - 4 * "skin_sheetmetal_thickness" - 2 * "base_width_skin_target_bend_radius"
+
+"base_width_skin_inner" = "base_width_skin_spacer" + 2 * "skin_sheetmetal_thickness"
+
+"base_width_skin_outer" = "base_width_skin_inner" + 2 * "skin_sheetmetal_thickness"
+
+"bend_cut_width"= 3
+
+"bend_cut_length"= 3
+
+"bend_offset_spacer_tab"= 21.0
+
+"bend_offset_inner"= 12.5
+
+"bend_offset_outer" = "bend_offset_inner" + "skin_sheetmetal_thickness"
+
+"border_offset_ends"= 20
+
+"border_offset_sides"= 10
+
+"border_offset_flange_horiz"= 10
+
+"rivet_size"= 4.3
+
+"rivet_offset_ends"= "rivet_spacing_horiz"/2 - "border_offset_ends"
+
+"rivet_spacing_horiz"= 200
+
+"rivet_spacing_vert"= 30
+
+"rivet_spacing_offset_right"= 40
+
+"base_length"= 200
+
